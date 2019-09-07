@@ -16,5 +16,17 @@
 <foaf:family_name>Zohorsky</foaf:family_name>
 <foaf:nick>Brian</foaf:nick>
 <foaf:mbox_sha1sum>b7d5c12f5c23aa370c5fa03c82ac7e7f724d701a</foaf:mbox_sha1sum>
-<foaf:schoolHomepage rdf:resource="UMBC"/></foaf:Person>
+<foaf:schoolHomepage rdf:resource="https://my.umbc.edu/"/>
+</foaf:Person>
+<foaf:Group>
+ <foaf:name>UMBC CMSC 491/691 (07) Fall 2019 Knowledge Graphs</foaf:name>
+ <foaf:member>
+  <foaf:Person>
+   <foaf:name>Brian Zohorsky</foaf:name>
+  </foaf:Person>
+ </foaf:member>
+</foaf:Group>
+<foaf:Page>
+	<foaf:Name>HW1</foaf:Name>
+</foaf:Page>
 </rdf:RDF>
